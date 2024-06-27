@@ -1,0 +1,16 @@
+{
+  "name": "vanilla-typescript",
+  "version": "1.0.0",
+  "description": "JavaScript and TypeScript example starter project",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@speckle/objectloader": "2.20.0-alpha5"
+  },
+  "devDependencies": {
+    "typescript": "4.4.4",
+    "vite": "5.3.1"
+  }
+}
